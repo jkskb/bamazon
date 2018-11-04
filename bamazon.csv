@@ -1,0 +1,11 @@
+item_id,product_name,department_name,price,stock_quantity
+1,"Jimmy Pops",Candy,1.12,386
+2,"Disco Scarf",Apparel,36.00,12
+3,"Rock and Roll Shoes",Apparel,56.00,80
+4,"Rainbow Candy Floss",Candy,0.99,1002
+5,"Super Cool Electric Guitar","Musical Instruments",439.99,3
+6,"Extra Noisy Drums","Musical Instruments",129.00,12
+7,"Life Size Skeleton","Medical Products",89.00,42
+8,Bandages,"Medical Products",7.00,3
+9,"Grape Flavored Dental Floss",Toiletries,2.50,33
+10,"Fake Teeth",Toiletries,25.00,1
