@@ -1,9 +1,13 @@
 Node.js & MySQL
 
+
+Start of Bamazon
 <img width="960" alt="2018-11-04" src="https://user-images.githubusercontent.com/38409784/47960246-ef3b6a80-dfc5-11e8-9c2e-3aa37c81f877.png">
 
+Update to Bamazon Quantities
 <img width="960" alt="2018-11-04 1" src="https://user-images.githubusercontent.com/38409784/47960247-f793a580-dfc5-11e8-8429-31abdb047e91.png">
 
+Exit Bamazon order App
 <img width="960" alt="2018-11-04 2" src="https://user-images.githubusercontent.com/38409784/47960248-febab380-dfc5-11e8-98ff-2e1f07cc163a.png">
 
 
